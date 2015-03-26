@@ -1,12 +1,19 @@
+body {
+	background-image: url("http://jackiesonegra.com/wp-content/uploads/2015/03/mountains.jpg");
+    background-repeat: no-repeat;
+    background-position: center auto;
+}
+
 h2 {
 	font-family:Arial;
 	font-weight:bold;
-	font-size:40px;
+	font-size:50px;
+	color:#FFFFFF;
 }
 
 input {
-	color:#FFFFFF;
-	background-color:#000000;
+	color:#000000;
+	background-color:#FFFFFF;
 	border-width:0px;
 	width:100%;
 	line-height: 25px;
@@ -17,23 +24,21 @@ form {
 	font-family:Arial;
 	font-weight:bold;
 	font-size:20px;
+	color:#FFFFFF;
 }
 
 button {
 	font-family:Arial;
 	font-weight:bold;	
 	font-size:15px;
-	color:#FFFFFF;
-	background-color:#000000;
+	color:#000000;
+	background-color:#FFFFFF;
 	border-width:0px;
-	padding-top:5px;
-	padding-bottom:5px;
-	padding-left:5px;
-	padding-right:5px;
+	padding:8px;
 }
 
 .center {
 	margin-right:auto;
 	margin-left:auto;
-	width:250px;
+	width:350px;
 }
